@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=71EOM5__vkI">
+
     
     </br>Watch on YouTube: Ask questions to an image using Python, Streamlit and Langchain !
 </a>
